@@ -1,0 +1,5 @@
+{
+  "name": "Apex Fitness",
+  "description": "A premium, modern landing page for a high-end local gym focusing on results and community.",
+  "requestFramePermissions": ["geolocation"]
+}
